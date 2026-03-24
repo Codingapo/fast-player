@@ -20,7 +20,7 @@ export const extractEpisodes = (html) => {
 };
 
 export const fetchAnimeHTML = async (slug) => {
-  const url = `https://hianime.to/anime/${slug}`;
+  const url = `https://kaido.to/anime/${slug}`;
   const { data } = await axios.get(url);
   return data;
 };
