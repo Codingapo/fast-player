@@ -22,7 +22,7 @@ A **Node.js REST API** that scrapes [Hianime.to](https://hianime.to) to provide 
 ## How to Find the Anime ID and Episode Number
 
 1. **Find Anime ID from Hianime:**  
-   Example URL:  https://hianime.to/watch/my-hero-academia-vigilantes-19544
+   Example URL:  https://kaido.to/watch/my-hero-academia-vigilantes-19544
    Anime ID: `my-hero-academia-vigilantes-19544`
 
 2. **Fetch Episodes via API:**  
